@@ -18,6 +18,8 @@
 /build
 
 # misc
+.env
+.env.local
 .DS_Store
 *.pem
 
